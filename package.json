@@ -1,0 +1,11 @@
+{
+  "name": "tapable-impr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:liangfung/tapable-impr.git",
+  "author": "liangfung <1098486429@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tapable": "^1.1.1"
+  }
+}
